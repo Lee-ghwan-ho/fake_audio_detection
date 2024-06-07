@@ -19,8 +19,8 @@ Rawnet2를 이용한 학습 (제출: public score: 0.98909  )
 ## 24.06.07 
 (public: 0.99810 /private :0.99885)
 
-![image](https://github.com/Lee-ghwan-ho/fake_audio_detection/assets/114568122/76b8c1e3-5359-438f-9a77-f01b1f900761)
+
 ![image](https://github.com/Lee-ghwan-ho/fake_audio_detection/assets/114568122/66ba3fdf-d0fb-4aba-acb8-85c9b223525f)
 
-
+![image](https://github.com/Lee-ghwan-ho/fake_audio_detection/assets/114568122/76b8c1e3-5359-438f-9a77-f01b1f900761)
 ---
